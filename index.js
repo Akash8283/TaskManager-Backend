@@ -12,7 +12,7 @@ taskManagerServer.use(express.json())
 // use router in server
 taskManagerServer.use(router)
 // create a port 
-const PORT = 3000
+const PORT = process.env.PORT || 3000
 
 taskManagerServer.listen(PORT,()=>{
     console.log("Server Started and waiting for client request");
