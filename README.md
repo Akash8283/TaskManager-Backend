@@ -26,4 +26,6 @@ Backend service for a simple Task Manager application built using Node.js, Expre
 ## Live Backend URL
 hhttps://taskmanager-backend-ly6i.onrender.com
 
+## Frontend Repository
+https://github.com/Akash8283/TaskManager-Frontend
 
