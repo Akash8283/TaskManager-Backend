@@ -23,3 +23,7 @@ Backend service for a simple Task Manager application built using Node.js, Expre
 2. Add MongoDB connection string in environment variables
 3. npm run dev
 
+## Live Backend URL
+hhttps://taskmanager-backend-ly6i.onrender.com
+
+
